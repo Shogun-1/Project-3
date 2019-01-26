@@ -1,12 +1,11 @@
 # Project-3
 A reference guide, that can be used to store the information about bus routes; a multifile project
 
-**IMPORTANT** Before typing any commands, type their quantity, i.e.:
+**!IMPORTANT!** Before typing any commands, type their quantity, i.e.:  
 3  
 NEW_BUS 50 2 Stop1 Stop2   
 BUSES_FOR_STOP Stop1  
 ALL_BUSES  
-
 ---END OF THE PROGRAM---
 
 Output:  
