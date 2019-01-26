@@ -1,5 +1,6 @@
 #include "query.h"
 
+// Operator overloading for Query struct
 istream& operator >> (istream& is, Query& q) {
   string request;
   is >> request;
