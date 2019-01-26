@@ -1,5 +1,5 @@
 # Project-3
-A reference guide, that can be used to store the information about buses and their stops; a multifile project
+A reference guide, that can be used to store the information about bus routes; a multifile project
 
 **IMPORTANT** Before typing any commands, type their quantity, i.e.:
 
