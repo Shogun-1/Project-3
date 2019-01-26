@@ -1,5 +1,6 @@
 #include "bus_manager.h"
 
+// BusManager class definitions
 void BusManager::AddBus(const string& bus, const vector<string>& stops) {
 	  bus_to_stops[bus] = stops;
 	  for (const auto& stop : stops)
