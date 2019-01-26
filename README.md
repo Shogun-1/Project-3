@@ -4,9 +4,9 @@ A reference guide, that can be used to store the information about buses and the
 **IMPORTANT** Before typing any commands, type their quantity, i.e.:
 
 3
-NEW_BUS 50 2 STOP1 STOP2
-BUSES_FOR_STOP STOP1
-ALL_BUSES
+NEW_BUS 50 2 STOP1 STOP2 
+BUSES_FOR_STOP STOP1 
+ALL_BUSES 
 ---END OF THE PROGRAM---
 
 Output:
