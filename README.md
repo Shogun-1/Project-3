@@ -1,5 +1,6 @@
 # Project-3
 A reference guide, that can be used to store the information about buses and their stops; a multifile project
+
 **IMPORTANT** Before typing any commands, type their quantity, i.e.:
 3
 NEW_BUS 50 2 STOP1 STOP2
