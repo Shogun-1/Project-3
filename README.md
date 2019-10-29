@@ -1,4 +1,4 @@
-# Project-3
+# reference-guide
 A reference guide, that can be used to store the information about bus routes; a multifile project.
 
 **IMPORTANT INFO!** Before typing any commands, type their quantity, i.e.:  
